@@ -20,7 +20,7 @@ Ao final de cada ação, a tela é automaticamente limpa para manter a organiza�
 bash
 Copiar
 Editar
-git clone https://github.com/seu-usuario/nydaily-anotacoes.git
+git clone https://github.com/duardo3120/To-Do-PY
 2. Execute o script:
 bash
 Copiar
